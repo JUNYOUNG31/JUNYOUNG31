@@ -5,8 +5,10 @@ JUN YOUNG's history
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNYOUNG31&theme=algolia&show_icons=true)
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=roywnsdud)](https://solved.ac/roywnsdud)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNYOUNG31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=roywnsdud31)](https://solved.ac/roywnsdud)
+
 
 
 
