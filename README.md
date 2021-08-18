@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:roywnsdud31@gmail.com)
+<br>
 JUN YOUNG's history 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNYOUNG31&theme=algolia&show_icons=true)
