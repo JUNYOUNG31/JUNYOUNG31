@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:roywnsdud31@gmail.com)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
 JUN YOUNG's history 
 
