@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=grass%20planting&fontSize=90)
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=grass%20planting&fontSize=70)
 ## Hi there 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:roywnsdud31@gmail.com)
 <br>
