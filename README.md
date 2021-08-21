@@ -14,10 +14,11 @@ JUN YOUNG's history
 </p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNYOUNG31&theme=algolia&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNYOUNG31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=roywnsdud)](https://solved.ac/roywnsdud)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNYOUNG31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 아이콘 검색하는 곳 
